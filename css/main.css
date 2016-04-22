@@ -1,14 +1,59 @@
 /* Inserta tu codigo aqui */
+header {
+	background-color: #1C1821;
+}
+
 img {
 	max-width: 100%;
 }
 
+p {
+	color: white;
+}
+
+.barra img {
+	width: 80%;
+	height: 10%;
+	float: right;
+}
+
+section {
+	background-color: #2D2735;
+}
+
+* {
+	font-family: "Open sans";
+}
+
+.cuadro {
+	background-color: #1C1821;
+}
+
+.cou {
+	font-family: "Courgette";
+	color: #FFCC66;
+}
+
 .img1 {
 	background: url(../image/header-image.jpg);
-	min-width: 100%;
+	max-width: 100%;
 	background-repeat: no-repeat;
 }
 
+a {
+	text-decoration: none;
+}
+
+li {
+	list-style: none;
+	float: right;
+	margin-left: 5%;
+	color: white;
+}
+
+hr {
+	width: 2%;
+}
 
 /* Responsive */
 
